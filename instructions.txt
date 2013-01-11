@@ -1,0 +1,13 @@
+Instructions:
+
+Use PHP MyAdmin or any MySQL client to execute MySQL file " sns_sanitatis.sql " at your Localhost/Server.
+
+You can edit your Database Parameters ("sanitatis_1.1\pre-includes\db.php") 
+
+Login with following credentials and start serving
+UserID: admin@abc.xyz
+Password: sanitatis
+
+Thanks
+
+Sanitatis.org

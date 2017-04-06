@@ -1,1 +1,0 @@
-<div id="footer">&copy; All rights reserved by <?php echo "$global_permission->guardian_name";?> - <a href="http://sanitatis.org/">Sanitatis</a> (v: <?php echo "$global_permission->version";?>) is designed by <a href="http://cietro.com">Cietro</a></div>

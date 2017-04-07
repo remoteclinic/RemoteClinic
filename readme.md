@@ -5,7 +5,7 @@
 <br>
 
 <h2>Installation:</h2>
-<p>Simply place the content provided inside "app" folder at your desired directory on the server/localhost and upload the provided remoteclinic.sql to your MySQL server, and update the database credentials in ~/app/pre-includes/db.php.</p>
+<p>Simply place the content provided at your desired directory on the server/localhost and upload the attached remoteclinic.sql to your MySQL server, and update the database credentials in ~/pre-includes/db.php.</p>
 
 <p>Visit the home folder from your browser and use the following login credentials to get started:</p>
 

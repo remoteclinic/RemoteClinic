@@ -20,8 +20,6 @@ MySQL version 5.0 or higher.<br>
 <br>
 
 <p>Remote Clinic is an open-source software, and is released under the terms of the GPL version 2 or later. If you have any suggestions or feedback about the software or if there is any feature you would love to see in upcoming edition, please feel free to write at care(at)remoteclinic.io </p>
-
-Thanks,<br>
-<a href="https://saadirfan.com">Saad Irfan</a> <br>
+<br>
 
 <p>Follow us on <a href="https://facebook.com/remoteclinic">Facebook</a> | <a href="https://twitter.com/remoteclinicio">Twitter</a>

@@ -11,6 +11,8 @@ but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 GNU General Public License for more details.
 
+Google Charts/Visualization API: https://developers.google.com/terms
+
 *Disclaimer: Hospitals/Medicine/Patients/Staff content available at this site, demo and provided .sql file are fictitious. Any resemblance to actual persons, places, brands or products is purely coincidental.
 **Remote Clinic is not a service provider and does not host any patient data whatsoever. Therefore the data/privacy compliance responsibility lies at Clinic/Healthcare Provider. While setting up this software, please ensure you are satisfying all legal requirements depending on where your business is located and data is being hosted, or check with your legal resources if you are uncertain.
 

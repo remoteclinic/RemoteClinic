@@ -12,7 +12,7 @@
   <div class="panel-heading theme-portal"><span class="inlineicon search-mini">Search</span></div>
 <div class="panel-body">
 <ol class="breadcrumb link-portal">
-  <li><a href="../desktop"><i class="glyphicon glyphicon-home"></i>Home</a></li>
+  <li><a href="../dashboard"><i class="glyphicon glyphicon-home"></i>Home</a></li>
   <li class="active">Seach</li>
 </ol>
 <?php foreach ($trimmed_array as $trimm){?>

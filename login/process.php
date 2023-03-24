@@ -15,13 +15,13 @@ $hasError=false;
 	$closing_time="$global_permission->closing_time";
 
 // Just to make sure
-session_unset("id");
-session_unset("branch");
-session_unset("session_id");
-session_unset("today");
-session_unset("access_level");
-session_unset("last_update");
-session_unset("unique_code");
+//session_unset("id");
+//session_unset("branch");
+//session_unset("session_id");
+//session_unset("today");
+//session_unset("access_level");
+//session_unset("last_update");
+//session_unset("unique_code");
 
 // grabbing some values
 $input_email = $_POST['user_id'];
